@@ -1,2 +1,2 @@
 # arch_scripts
-My script repository for install and configuring ArchLinux
+My script repository for installing and configuring ArchLinux
