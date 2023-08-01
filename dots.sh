@@ -6,8 +6,8 @@ if [ ! -d "$GITHUB" ]; then
 fi
 
 #Download Dots
-echo "Downloading Dotfiles"
-git clone https://gitlab.com/thelinuxcast/my-dots.git $HOME/Documents/MyGitHub/my-dots
+git clone https://github.com/bknightinfo/my-dots.git $HOME/Documents/MyGitHub/my-dots
+git clone https://github.com/bknightinfo/arch_scripts.git $HOME/Documents/MyGitHub/my-scripts
 
 
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/foot ~/.config
@@ -19,3 +19,5 @@ ln -s $HOME/Documents/MyGitHub/my-dots/Config/swaylock ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/cava ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/waybar ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/zsh ~/.config
+ln -s $HOME/Documents/MyGitHub/my-dots/.zshrc ~/
+ln -s $HOME/Documents/MyGitHub/my-dots/Config/starship.toml ~/.config
