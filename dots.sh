@@ -18,6 +18,7 @@ ln -s $HOME/Documents/MyGitHub/my-dots/Config/nvim ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/swaylock ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/cava ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/waybar ~/.config
+ln -s $HOME/Documents/MyGitHub/my-dots/Config/wofi ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/zsh ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/.zshrc ~/
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/starship.toml ~/.config
