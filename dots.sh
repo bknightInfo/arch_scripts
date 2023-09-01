@@ -14,6 +14,7 @@ ln -s $HOME/Documents/MyGitHub/my-dots/Config/foot ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/kitty ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/gtk-3.0 ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/hypr ~/.config
+ln -s $HOME/Documents/MyGitHub/my-dots/Config/lf ~/.config 
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/neofetch ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/nvim ~/.config
 ln -s $HOME/Documents/MyGitHub/my-dots/Config/swaylock ~/.config
